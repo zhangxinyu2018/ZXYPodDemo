@@ -1,0 +1,9 @@
+source ‘git@github.com:zhangxinyu2018/ZXYSpecs.git’
+
+platform :ios, ‘8.0’
+
+target ‘ZXYPodDemo’ do
+
+pod 'ZXYTestPod'
+
+end

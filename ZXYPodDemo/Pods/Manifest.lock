@@ -1,0 +1,16 @@
+PODS:
+  - ZXYTestPod (1.0.0)
+
+DEPENDENCIES:
+  - ZXYTestPod
+
+SPEC REPOS:
+  "git@github.com:zhangxinyu2018/ZXYSpecs.git":
+    - ZXYTestPod
+
+SPEC CHECKSUMS:
+  ZXYTestPod: e5c66964f715604400b04597596279d88b7f379c
+
+PODFILE CHECKSUM: 4eab80ef72d330b14cbd96775955b0f195d135ca
+
+COCOAPODS: 1.5.3
